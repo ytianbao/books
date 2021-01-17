@@ -30,4 +30,3 @@
     * [Photograph](view/photograph/index.md)
     * [Fashion](view/fashion/index.md)
 * [Temperament](temperament/index.md)
-
