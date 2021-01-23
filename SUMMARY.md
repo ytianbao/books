@@ -9,6 +9,7 @@
     * [Editor](efficiency/editor/index.md)
         * [Visual Studio Code权威指南](efficiency/editor/Visual Studio Code权威指南.md)
     * [Git](efficiency/git/index.md)
+        * [Git Pro](efficiency/git/Git Pro/Git Pro.md)
 * [Frontend](frontend/index.md)
     * [HTML](frontend/html/index.md)
     * [CSS](frontend/css/index.md)
@@ -30,3 +31,4 @@
     * [Photograph](view/photograph/index.md)
     * [Fashion](view/fashion/index.md)
 * [Temperament](temperament/index.md)
+
